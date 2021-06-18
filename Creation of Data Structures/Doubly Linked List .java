@@ -1,3 +1,5 @@
+// You can rework on it and make a menu of operations.
+
 import static java.lang.System.out;
 
 public class DoublyLinkedList{
