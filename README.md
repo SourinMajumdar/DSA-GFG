@@ -2,6 +2,6 @@
 
 Data Structures program that I solve on Geeks for Geeks will be uploaded here with solution.
 
-Language: Java
+Language: __Java__
 
-Note: Only the main function will be uploaded.
+##Note:## Only the main function will be uploaded.
