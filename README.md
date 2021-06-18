@@ -6,3 +6,6 @@ Language: __Java__
 
 ### Note: ###
 Only the main function will be uploaded.
+
+
+__Soltions will be uploaded in respective folders according to the topic.__
