@@ -8,4 +8,4 @@ Language: __Java__
 Only the main function will be uploaded.
 
 
-__Soltions will be uploaded in respective folders according to the topic.__
+__Soltions will be uploaded in respective folders with topic names.__
