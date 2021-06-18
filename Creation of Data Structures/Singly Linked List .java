@@ -1,3 +1,6 @@
+// You can rework on it and make a menu of operations.
+
+
 import static java.lang.System.out;
 
 public class LinkedList {
@@ -128,3 +131,17 @@ public class LinkedList {
         out.print("Size : "); list.getSize();
     }
 }
+
+
+/*
+
+OUTPUT:
+
+5 -> 2 -> 3
+8 -> 8 -> 1 -> 5 -> 2 -> 3
+8 -> 8 -> 9000 -> 1 -> 100 -> 5 -> 2 -> 69 -> 3
+8 -> 9000 -> 1 -> 100 -> 5 -> 2 -> 69 -> 3
+8 -> 9000 -> 1 -> 100 -> 2 -> 69
+Size : 6
+
+*/
